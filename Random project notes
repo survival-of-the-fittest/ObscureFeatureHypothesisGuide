@@ -16,7 +16,8 @@ develop a method that allows us to tackle real-world insight problems. Such a me
 Examples of existing toy insight problems and where they can be found: 
 	Prisoner-and-rope Problem: (Issac & Just, 1995 [Constraints on Thinking in Insight and Invention])
 	Candle Problem: (Dunker, 1945 [On Problem Solving])
-	Circuit Problem: (Glucksberg & Dranks, 1968 [Effects of discriminative labels and of nonsense lables upon availability of novel function])
+	Circuit Problem: (Glucksberg & Dranks, 1968 [Effects of discriminative labels and of nonsense lables upon availability of novel 
+		function])
 	Stuck-truck Problem: (http://www.thinkriddles.com/stuck-semi-riddle-785.html)
 	2-Rings Problem, Desk-lamp Problem, Wrist-watch Problem, Hot-coals Problem: (McCaffrey, 2011 [The Obscure Features Hypothesis For
 		Innovation: One Key to Improving Human Innovation])
@@ -28,7 +29,8 @@ The Generic Parts Technique
 
 Terms I found to be useful:
   Functional Fixedness: To overlook or be oblivious to the parts, materials, shape and/or size of objects involved in a problem. (defined 
-		by McCaffrey in his paper, Innovation Relies on the Obscure: A Key to Overcoming the Classic Problem of Functional Fixedness)
+		by McCaffrey in his paper, Innovation Relies on the Obscure: A Key to Overcoming the Classic Problem of Functional 
+		Fixedness)
   
 How the OFH proposes we fix functional fixedness: Describe object parts, materials, sizes and shapes of objects in terms that do not 
 suggest their purpose. For example, a cardboard box suggests that something can be put inside it. If we rephrase it as a hollow 
@@ -69,5 +71,10 @@ If you happen to be an engineer, perhaps you could suggest how to learn to manip
 (Yes, I'm talking about you two, Araly and Ted. Gimme something, anything. You either went through engineering school or are still in it.
 You must have learned something.)
 ------------------------------------------------------------------------------------------------------------------------------
+Cognitive Obstacle to Innovation #1: Design Fixation
 
+Definition: To possess an emotional attachment to certain select attributes of a solution. This prevents the problem-solver from 
+considering alternative features that could lead to a new solution. 
 
+OFH's Solution: Use a list of feature variables (AKA the Feature Type Taxonomy) to map the features of an existing solution and change
+their values around to find new solutions. 
