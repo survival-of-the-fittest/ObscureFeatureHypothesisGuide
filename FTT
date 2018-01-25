@@ -9,7 +9,7 @@ Physical Features
 	1.  Parts - Identifiable components of focal entity
 	2.  Material - Material make-up of focal entity or its parts 
 	3.  Shape - Overall shape of focal entity or its parts
-  4.  Symmetry - An important but often overlooked characteristic of the shape of a focal entity
+  	4.  Symmetry - An important but often overlooked characteristic of the shape of a focal entity
 	5.  Size - Length, width, depth of focal entity or its parts
 	6.  Color - ...of focal entity or its parts
 	7.  Texture - ...of focal entity or its parts
@@ -19,22 +19,22 @@ Physical Features
 	11. Weight - ...of focal entity or its parts
 	12. State of Matter - (Solid, liquid, gas, plasma) of focal entity or its parts
 	13. Connectivity Among Parts - Physical connection among components of the focal entity. This 
-      feature is based on the chair when it is not being used. An inert chair possesses this feature 
-      of its parts being connected in some way.
+		feature is based on the chair when it is not being used. An inert chair possesses this feature 
+      		of its parts being connected in some way.
 	14. Spatial Relations Among Parts - Distance and direction of one component to another of the focal 
-      entity. Again, ,this feature is based on the chair when it is not being used. An inert chair possesses 
-      this feature of there being spatial relations among the parts.
+      		entity. Again, ,this feature is based on the chair when it is not being used. An inert chair possesses 
+      		this feature of there being spatial relations among the parts.
 
 Use-Based Features
 	15. External Relations - Relations of focal entity to environmental entities during a particular use of the focal entity 
 	16. Environmental Partners - Environmental entities that the focal entity is used with during a particular use
 	17. Motor Relations - How a human physically manipulates the focal entity or its parts during a particular use
 	18. Causal Relations - During a particular use, the cause-effect sequence set off among the parts of the focal entity as well as 
-      between the focal entity and its environmental entities
+      		between the focal entity and its environmental entities
 	19. Place - The typical physical locations that the focal entity resides in during a particular use
 	20. Occasion - The typical contexts that a focal entity resides in during a particular use
 	21. Energy/Forces - During a particular use, the types of energy and forces in play both within the focal entity as well as 
-      within and among the environmental entities
+      		within and among the environmental entities
 	22. Perspective - The typical physical viewing point that a human takes with respect to the focal entity during a particular use
 	23. Time - The typical time-frame (e.g., milliseconds, hours) that a focal entity occupies during a particular use
 	24. Motion - The typical type of motion engaged in by a focal entity during a particular use
@@ -44,7 +44,7 @@ Use-Based Features
 	28. Synonym (based on use) - Other entities that can achieve the same use as the focal entity
 	29. Space - The spatial relations between the focal entity and the environmental entities during a particular use
 	30. Orientation - The spatial orientation required for the focal entity to achieve its use (a very important sub-case of overall 
-      spatial relations)
+      		spatial relations)
 	31. Side Effects - Other effects besides the desired ones that are produced while the focal entity is in use
 	32. Sound - The sound emitted by the focal entity during a particular use
 	
